@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Pull the Docker image from Docker Hub jytr
+# Pull the Docker image from Docker Hub jytrjtr
 docker pull subhra11/simple-python-flask-app
 
 
